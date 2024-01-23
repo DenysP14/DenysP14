@@ -10,7 +10,9 @@
 ![Devtools](https://img.shields.io/badge/devtools-black?style=for-the-badge&logo=googlechrome)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![Devtools](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudio)
-Follow me
+
+### Follow me
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denys-polkovnykov-723b2222a/)
 
 My CV
 
