@@ -14,6 +14,7 @@
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denys-polkovnykov-723b2222a/)
 
-My CV
+### My CV
+[Link to my CV](https://drive.google.com/file/d/1cjqvy30OWtdvEma98siZSkubdbz1laGL/view?usp=sharing)
 
 My portfolio
