@@ -18,4 +18,5 @@
 [Link to my CV](https://drive.google.com/file/d/1cjqvy30OWtdvEma98siZSkubdbz1laGL/view?usp=sharing)
 
 ### My Portfolio
- Example of a checklist for a mobile video application [Click here](https://drive.google.com/file/d/16ROBaTBVYqE8FrqQ1uXbxSXEMOsyf0W6/view?usp=sharing)
+ # Example of a checklist for a mobile video application [Click here](https://drive.google.com/file/d/16ROBaTBVYqE8FrqQ1uXbxSXEMOsyf0W6/view?usp=sharing)
+ # Using the source debugger in the Segment [Click here](https://drive.google.com/file/d/1CMHi11O3SY0CB4m9xWNz_7DLrqf70Mtv/view?usp=sharing)
