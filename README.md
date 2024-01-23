@@ -19,9 +19,9 @@
 
 ### My Portfolio
  
-Example of a checklist for a mobile video application [Click here](https://drive.google.com/file/d/16ROBaTBVYqE8FrqQ1uXbxSXEMOsyf0W6/view?usp=sharing)
-Using the Source Debugger in the Segment [Click here](https://drive.google.com/file/d/1CMHi11O3SY0CB4m9xWNz_7DLrqf70Mtv/view?usp=sharing)
-Example of test case in the Zephyr Scale [Click here](https://drive.google.com/file/d/1ndzIg8fc1TjvONuNzx_0Lzd4gToqqI4U/view?usp=sharing)
-Example of test cases for a desktop application [Click here](https://docs.google.com/spreadsheets/d/1nh6TIl23Ja61BYQvCTB2T-JbbScmel4QQyak9RiwE6w/edit?usp=sharing)
-Example of running created collection in Postman [Click here](https://drive.google.com/file/d/17S-_7BuBurAcYeJorsDAXZPyILp4h1NU/view?usp=sharing)
-Examples of created bug reports in Jira [Click here](https://drive.google.com/file/d/1EAFc0V2RlyeNAFdmrc6kPRr2d4QQLfQp/view?usp=sharing) and [Click here](https://drive.google.com/file/d/14911dO5bDxfIRrKO8fgT9gLyiHfuHzgO/view?usp=sharing) and [Here](https://drive.google.com/file/d/1IuX1AespFBKchtMKxcJ7qg6evREQAjlF/view?usp=sharing)
+1. Example of a checklist for a mobile video application [Click here](https://drive.google.com/file/d/16ROBaTBVYqE8FrqQ1uXbxSXEMOsyf0W6/view?usp=sharing)
+2. Using the Source Debugger in the Segment [Click here](https://drive.google.com/file/d/1CMHi11O3SY0CB4m9xWNz_7DLrqf70Mtv/view?usp=sharing)
+3. Example of test case in the Zephyr Scale [Click here](https://drive.google.com/file/d/1ndzIg8fc1TjvONuNzx_0Lzd4gToqqI4U/view?usp=sharing)
+4. Example of test cases for a desktop application [Click here](https://docs.google.com/spreadsheets/d/1nh6TIl23Ja61BYQvCTB2T-JbbScmel4QQyak9RiwE6w/edit?usp=sharing)
+5. Example of running created collection in Postman [Click here](https://drive.google.com/file/d/17S-_7BuBurAcYeJorsDAXZPyILp4h1NU/view?usp=sharing)
+6. Examples of created bug reports in Jira [Click here](https://drive.google.com/file/d/1EAFc0V2RlyeNAFdmrc6kPRr2d4QQLfQp/view?usp=sharing) and [Click here](https://drive.google.com/file/d/14911dO5bDxfIRrKO8fgT9gLyiHfuHzgO/view?usp=sharing) and [Here](https://drive.google.com/file/d/1IuX1AespFBKchtMKxcJ7qg6evREQAjlF/view?usp=sharing)
